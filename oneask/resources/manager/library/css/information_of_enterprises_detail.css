@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+input {vertical-align: -2px;_vertical-align: -1px;margin-right: 2px;}
+.left{ float:left;}
+.right{ float:right;}
+.infm_of_padding{ padding:10px 0px;}
+.info_from_box {width:45%;float:left; margin:0px 60px 10px 0px;}
+.info_article {margin-top:10px;clear:both;}
+.info_article label{color: #468847; font-weight:normal;}
+.panel-heading{border-bottom: 1px solid rgba(0, 0, 0, 0.07); display: block; height: 25px; line-height: 25px;}
+.panel-title a{color: #c09853; }
+.panel-title_icon-color{color:#333;}
+.tituImg_Ico{color: #0099cc; margin:0px 10px; text-decoration:underline;}
+.open_mdpadding{ padding:20px 0px 0px 0px;}
+.panel{ margin:10px 0px;}
+.info_madding_ico{ margin:0px 20px;}
+.table-striped{ margin:10px 0px;}
+.widget-content{ border:1px solid #dddddd; margin-bottom:15px; padding:10px;border-radius: 5px; box-shadow: 0 1px 1px #ccc;}
+.tab_zhijirenzheng td{ padding:0px 20px 10px 0px;}
+.inf_jy_jjzb_top p{ padding:0px 10px 10px 10px; float:left;}
+.inf_jy_jjzb_top{ margin:10px 0px;}
+#qiye-container1{ width:80%;}
+.inf_img_tubaiao_madd{ margin:30px 0px;}
+.sumcolorred{ color:#ff0000;}
+.sumcolorbulk{ color:#0099FF;}
+.inf_excerpt_boxdiv dl dd{ float:left; margin:10px 30px 10px 10px; width:350px;}
+.inf_excerpt-span {
+    display: inline-block;
+    line-height: 25px;
+    margin-left: 0;
+    min-height: 40px;
+    width: 350px;
+}
+.inf_excerpt-span label {
+    cursor: auto;
+    float: left;
+    text-align: right;
+    width: 130px;
+}
+.inf_span {
+    display: block;
+    line-height: 24px;
+    margin-left: 130px;
+}
+.inf_tab_one_width{ width:100%;}
+.inf_tab_one_width tr td{ padding-right:40px;}
+.infm_of_biaoqi{-moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #f5f5f5;
+    background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+    background-repeat: repeat-x;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) #a2a2a2;
+    border-image: none;
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset, 0 1px 2px rgba(0, 0, 0, 0.05);
+    color: #333333;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 0;
+    padding: 4px 12px;
+    text-align: center;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+    vertical-align: middle;}
